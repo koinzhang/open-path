@@ -41,7 +41,7 @@
       "name": "priorityDetection",
       "type": "dropdown",
       "required": false,
-      "title": "Priority detection",
+      "title": "Priority Detection",
       "description": "Priority detection of selected text or clipboard.",
       "default": "selected",
       "data": [

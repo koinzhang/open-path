@@ -13,7 +13,7 @@ Open path or URL from selection or clipboard, support directory, url, url scheme
 
 - Trim Text: Automatically remove spaces at both ends of text.
 - Show HUD: After open the path, display the HUD pop-up prompt.
-- Priority detection: Priority detection of selected text or clipboard.
+- Priority Detection: Priority detection of selected text or clipboard.
 - Search Engine: Search Engine for selected or clipboard text.
 
 🌟🌟To make it easier and faster to use, it is recommended to set shortcut keys for the extension
